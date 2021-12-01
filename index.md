@@ -31,6 +31,7 @@ Syntax highlighted code block
 curso de html5 e css3 modulo 3 por Gustavo Guanabara
 
 projeto cordel >> <a href="https://rafaeiro.github.io/HTML-CSS/cordel.html">clique para acessar a última versão </a>
+[clique para acessar a última versão](https://rafaeiro.github.io/HTML-CSS/cordel.html)
 
 ```
 
