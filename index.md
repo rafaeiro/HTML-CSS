@@ -34,6 +34,7 @@ projeto cordel >> <a href="https://rafaeiro.github.io/HTML-CSS/cordel.html">cliq
 [clique para acessar a última versão](https://rafaeiro.github.io/HTML-CSS/cordel.html)
 
 ```
+[clique para acessar a última versão](https://rafaeiro.github.io/HTML-CSS/cordel.html)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
